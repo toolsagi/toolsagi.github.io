@@ -239,49 +239,6 @@
 
         <div class="row justify-content-md-center mt-4">
             <div class="col-md-10 col-lg-8">
-                <h3 id="real">Intruction-Following in Diverse Biomes</h3>
-                <p>JARVIS-1 can execute human instructions in diverse environments. We illustrate executions in different biomes below. </p>
-                
-                <div class="card mb-4 mt-4 text-dark bg-light">
-                    <h5 class="card-header">Pick up a Minecraft:wooden_pickaxe</h5>
-                    <div class="card-body">
-                        <div class="row justify-content-md-center mt-4">
-                            <div class="col-md-6 mb-2">
-                            <p>Execution in <u>Plains</u>:</p>
-                            <video width="100%" preload="metadata" playsinline controls>
-                                <source src="videos/wooden_pickaxe_plains.mp4" type="video/mp4">
-                            </video>
-                            </div>
-                            <div class="col-md-6 mb-2">
-                                <p>Execution in <u>Birch Forest</u>:</p>
-                                <video width="100%" preload="metadata" playsinline controls>
-                                    <source src="videos/wooden_pickaxe_birch_forest.mp4" type="video/mp4">
-                            </video>
-                            </div>
-                        </div>
-                        <div class="row justify-content-md-center mt-4">
-                            <div class="col-md-6 mb-2">
-                            <p>Execution in <u>Jungle</u>:</p>
-                            <video width="100%" preload="metadata" playsinline controls>
-                                <source src="videos/wooden_pickaxe_jungle.mp4" type="video/mp4">
-                            </video>
-                            </div>
-                            <div class="col-md-6 mb-2">
-                                <p>Execution in <u>Savanna</u>:</p>
-                                <video width="100%" preload="metadata" playsinline controls>
-                                    <source src="videos/wooden_pickaxe_savanna.mp4" type="video/mp4">
-                            </video>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-
-        <div class="row justify-content-md-center mt-4">
-            <div class="col-md-10 col-lg-8">
                 <h3 id="results">More Results</h3>
                 <p>Below we share some additional results of JARVIS-1 on Minecraft.
                 </p>
